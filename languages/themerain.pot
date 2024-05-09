@@ -1,0 +1,477 @@
+# Copyright (C) 2021 ThemeRain
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Scena 1.1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/scena\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-09-14T17:24:28+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: themerain\n"
+
+#. Theme Name of the theme
+msgid "Scena"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://themeforest.net/user/themerain/portfolio"
+msgstr ""
+
+#. Description of the theme
+msgid "A minimally beautiful portfolio WordPress theme for agencies & freelancers."
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeRain"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/themerain"
+msgstr ""
+
+#: comments.php:22
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:25
+msgid "Post"
+msgstr ""
+
+#: functions.php:17
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:37
+#: inc/meta-boxes.php:220
+msgid "Normal"
+msgstr ""
+
+#: functions.php:42
+msgid "Medium"
+msgstr ""
+
+#: functions.php:47
+msgid "Large"
+msgstr ""
+
+#: functions.php:52
+msgid "Huge"
+msgstr ""
+
+#: inc/back-compat.php:17
+#: inc/back-compat.php:29
+#: inc/back-compat.php:45
+msgid "This theme requires WordPress 5.3 or newer. You are running version %s. Please upgrade."
+msgstr ""
+
+#: inc/customizer.php:7
+msgid "General"
+msgstr ""
+
+#: inc/customizer.php:10
+msgid "Enable AJAX"
+msgstr ""
+
+#: inc/customizer.php:16
+msgid "Navigation Subtitle"
+msgstr ""
+
+#: inc/customizer.php:18
+#: template-parts/navigation.php:3
+msgid "Next Up"
+msgstr ""
+
+#: inc/customizer.php:26
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:29
+msgid "Logo Dark"
+msgstr ""
+
+#: inc/customizer.php:34
+msgid "Logo Light"
+msgstr ""
+
+#: inc/customizer.php:39
+msgid "Logo Image Width (px)"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Logo SVG"
+msgstr ""
+
+#: inc/customizer.php:113
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "First Column"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "Second Column"
+msgstr ""
+
+#. Template Name of the theme
+#: inc/customizer.php:130
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer.php:133
+msgid "Default style"
+msgstr ""
+
+#: inc/customizer.php:138
+#: inc/customizer.php:150
+#: inc/meta-boxes.php:61
+msgid "List"
+msgstr ""
+
+#: inc/customizer.php:139
+#: inc/customizer.php:151
+#: inc/meta-boxes.php:35
+#: inc/meta-boxes.php:62
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer.php:140
+#: inc/customizer.php:152
+#: inc/meta-boxes.php:63
+msgid "Split"
+msgstr ""
+
+#: inc/customizer.php:141
+#: inc/customizer.php:153
+#: inc/meta-boxes.php:64
+msgid "Wide"
+msgstr ""
+
+#: inc/customizer.php:145
+msgid "Archive style"
+msgstr ""
+
+#. Template Name of the theme
+#: inc/customizer.php:161
+msgid "Portfolio"
+msgstr ""
+
+#: inc/customizer.php:164
+msgid "Video autoplay"
+msgstr ""
+
+#: inc/customizer.php:173
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer.php:176
+msgid "Global Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:181
+#: inc/meta-boxes.php:253
+#: inc/meta-boxes.php:287
+msgid "Light"
+msgstr ""
+
+#: inc/customizer.php:182
+#: inc/meta-boxes.php:254
+#: inc/meta-boxes.php:288
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer.php:186
+#: inc/meta-boxes.php:292
+msgid "Text color"
+msgstr ""
+
+#: inc/customizer.php:192
+#: inc/meta-boxes.php:298
+msgid "Background color"
+msgstr ""
+
+#: inc/customizer.php:202
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer.php:205
+msgid "Primary Font"
+msgstr ""
+
+#: inc/customizer.php:215
+msgid "Secondary Font"
+msgstr ""
+
+#: inc/meta-boxes.php:7
+msgid "Portfolio Settings"
+msgstr ""
+
+#: inc/meta-boxes.php:13
+#: inc/meta-boxes.php:49
+msgid "Displayed categories"
+msgstr ""
+
+#: inc/meta-boxes.php:15
+msgid "Choose which of portfolio categories you want to include."
+msgstr ""
+
+#: inc/meta-boxes.php:19
+msgid "Projects per page"
+msgstr ""
+
+#: inc/meta-boxes.php:21
+msgid "Use \"-1\" if you want to display all of your projects on the page."
+msgstr ""
+
+#: inc/meta-boxes.php:27
+#: inc/meta-boxes.php:56
+msgid "Style"
+msgstr ""
+
+#: inc/meta-boxes.php:32
+msgid "Slider"
+msgstr ""
+
+#: inc/meta-boxes.php:33
+msgid "Carousel"
+msgstr ""
+
+#: inc/meta-boxes.php:34
+msgid "Covers"
+msgstr ""
+
+#: inc/meta-boxes.php:43
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/meta-boxes.php:51
+msgid "Choose which of blog categories you want to include."
+msgstr ""
+
+#: inc/meta-boxes.php:72
+msgid "Post Settings"
+msgstr ""
+
+#: inc/meta-boxes.php:77
+#: template-parts/content.php:47
+msgid "Featured"
+msgstr ""
+
+#: inc/meta-boxes.php:86
+msgid "Project Settings"
+msgstr ""
+
+#: inc/meta-boxes.php:91
+msgid "Video thumbnail (.mp4)"
+msgstr ""
+
+#: inc/meta-boxes.php:93
+msgid "If present, the Featured Image will be used as a video poster."
+msgstr ""
+
+#: inc/meta-boxes.php:98
+msgid "Secondary thumbnail"
+msgstr ""
+
+#: inc/meta-boxes.php:103
+msgid "Link thumbnail to"
+msgstr ""
+
+#: inc/meta-boxes.php:108
+msgid "This Project (Default)"
+msgstr ""
+
+#: inc/meta-boxes.php:109
+#: inc/meta-boxes.php:116
+msgid "Image"
+msgstr ""
+
+#: inc/meta-boxes.php:110
+msgid "Video"
+msgstr ""
+
+#: inc/meta-boxes.php:111
+msgid "External URL"
+msgstr ""
+
+#: inc/meta-boxes.php:112
+msgid "No URL"
+msgstr ""
+
+#: inc/meta-boxes.php:122
+msgid "Video URL"
+msgstr ""
+
+#: inc/meta-boxes.php:124
+msgid "For example: https://vimeo.com/XXXXX or https://youtube.com/watch?v=XXXXX"
+msgstr ""
+
+#: inc/meta-boxes.php:129
+msgid "URL"
+msgstr ""
+
+#: inc/meta-boxes.php:135
+msgid "Unique portfolio page"
+msgstr ""
+
+#: inc/meta-boxes.php:137
+msgid "If you're using multiple portfolios, please choose the portfolio page where this project is included."
+msgstr ""
+
+#: inc/meta-boxes.php:145
+msgid "Hero Settings"
+msgstr ""
+
+#: inc/meta-boxes.php:150
+msgid "Enable fullscreen"
+msgstr ""
+
+#: inc/meta-boxes.php:155
+msgid "Fixed background"
+msgstr ""
+
+#: inc/meta-boxes.php:160
+msgid "Hero image"
+msgstr ""
+
+#: inc/meta-boxes.php:165
+msgid "Hero video (mp4)"
+msgstr ""
+
+#: inc/meta-boxes.php:167
+msgid "If present, the background image will be used as a video poster."
+msgstr ""
+
+#: inc/meta-boxes.php:172
+msgid "Media opacity"
+msgstr ""
+
+#: inc/meta-boxes.php:179
+msgid "Media opacity (after scroll)"
+msgstr ""
+
+#: inc/meta-boxes.php:187
+msgid "Hero title"
+msgstr ""
+
+#: inc/meta-boxes.php:189
+msgid "Replaces the default title of the page."
+msgstr ""
+
+#: inc/meta-boxes.php:193
+msgid "Hero subtitle"
+msgstr ""
+
+#: inc/meta-boxes.php:198
+msgid "Hide title"
+msgstr ""
+
+#: inc/meta-boxes.php:203
+msgid "Title size"
+msgstr ""
+
+#: inc/meta-boxes.php:215
+msgid "Title width"
+msgstr ""
+
+#: inc/meta-boxes.php:221
+msgid "Full"
+msgstr ""
+
+#: inc/meta-boxes.php:225
+msgid "Title alignment"
+msgstr ""
+
+#: inc/meta-boxes.php:230
+msgid "Left"
+msgstr ""
+
+#: inc/meta-boxes.php:231
+#: inc/meta-boxes.php:241
+msgid "Center"
+msgstr ""
+
+#: inc/meta-boxes.php:232
+msgid "Right"
+msgstr ""
+
+#: inc/meta-boxes.php:236
+msgid "Title position"
+msgstr ""
+
+#: inc/meta-boxes.php:242
+msgid "Bottom"
+msgstr ""
+
+#: inc/meta-boxes.php:246
+msgid "Hero skin"
+msgstr ""
+
+#: inc/meta-boxes.php:252
+msgid "Use page settings"
+msgstr ""
+
+#: inc/meta-boxes.php:258
+msgid "Hero text color"
+msgstr ""
+
+#: inc/meta-boxes.php:265
+msgid "Hero background color"
+msgstr ""
+
+#: inc/meta-boxes.php:276
+msgid "Styling"
+msgstr ""
+
+#: inc/meta-boxes.php:281
+msgid "Color scheme"
+msgstr ""
+
+#: inc/meta-boxes.php:286
+msgid "Use global settings"
+msgstr ""
+
+#: inc/template-functions.php:35
+msgid "Search"
+msgstr ""
+
+#: inc/template-functions.php:40
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/template-functions.php:41
+msgid "Please try searching again with some different keywords."
+msgstr ""
+
+#: inc/template-functions.php:46
+msgid "404"
+msgstr ""
+
+#: inc/template-functions.php:47
+msgid "Sorry, we couldn't find what you're looking for."
+msgstr ""
+
+#: inc/template-functions.php:187
+msgid "Name"
+msgstr ""
+
+#: inc/template-functions.php:188
+msgid "Email"
+msgstr ""
+
+#: inc/template-functions.php:233
+msgid "ago"
+msgstr ""
+
+#: inc/template-functions.php:239
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:122
+msgid "Load More"
+msgstr ""
